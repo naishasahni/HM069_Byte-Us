@@ -1,0 +1,122 @@
+[
+  {
+    "bank": "HDFC Bank",
+    "type": "Personal Loan",
+    "interest_rate": 10.5,
+    "processing_fee": "2% of loan amount",
+    "min_amount": 50000,
+    "max_amount": 4000000,
+    "min_tenure": 1,
+    "max_tenure": 5
+  },
+  {
+    "bank": "ICICI Bank",
+    "type": "Personal Loan",
+    "interest_rate": 11.0,
+    "processing_fee": "2.5% of loan amount",
+    "min_amount": 50000,
+    "max_amount": 5000000,
+    "min_tenure": 1,
+    "max_tenure": 5
+  },
+  {
+    "bank": "Axis Bank",
+    "type": "Personal Loan",
+    "interest_rate": 10.75,
+    "processing_fee": "2% of loan amount",
+    "min_amount": 50000,
+    "max_amount": 4000000,
+    "min_tenure": 1,
+    "max_tenure": 5
+  },
+  {
+    "bank": "SBI",
+    "type": "Personal Loan",
+    "interest_rate": 9.8,
+    "processing_fee": "1.5% of loan amount",
+    "min_amount": 50000,
+    "max_amount": 2000000,
+    "min_tenure": 1,
+    "max_tenure": 5
+  },
+  {
+    "bank": "HDFC Bank",
+    "type": "Home Loan",
+    "interest_rate": 8.5,
+    "processing_fee": "0.5% of loan amount",
+    "min_amount": 500000,
+    "max_amount": 10000000,
+    "min_tenure": 5,
+    "max_tenure": 30
+  },
+  {
+    "bank": "ICICI Bank",
+    "type": "Home Loan",
+    "interest_rate": 8.75,
+    "processing_fee": "0.5% of loan amount",
+    "min_amount": 500000,
+    "max_amount": 15000000,
+    "min_tenure": 5,
+    "max_tenure": 30
+  },
+  {
+    "bank": "SBI",
+    "type": "Home Loan",
+    "interest_rate": 8.25,
+    "processing_fee": "0.35% of loan amount",
+    "min_amount": 500000,
+    "max_amount": 15000000,
+    "min_tenure": 5,
+    "max_tenure": 30
+  },
+  {
+    "bank": "HDFC Bank",
+    "type": "Car Loan",
+    "interest_rate": 9.0,
+    "processing_fee": "1% of loan amount",
+    "min_amount": 100000,
+    "max_amount": 5000000,
+    "min_tenure": 1,
+    "max_tenure": 7
+  },
+  {
+    "bank": "ICICI Bank",
+    "type": "Car Loan",
+    "interest_rate": 9.25,
+    "processing_fee": "1% of loan amount",
+    "min_amount": 100000,
+    "max_amount": 5000000,
+    "min_tenure": 1,
+    "max_tenure": 7
+  },
+  {
+    "bank": "Axis Bank",
+    "type": "Car Loan",
+    "interest_rate": 9.5,
+    "processing_fee": "1.2% of loan amount",
+    "min_amount": 100000,
+    "max_amount": 5000000,
+    "min_tenure": 1,
+    "max_tenure": 7
+  },
+  {
+    "bank": "HDFC Bank",
+    "type": "Education Loan",
+    "interest_rate": 8.75,
+    "processing_fee": "0.5% of loan amount",
+    "min_amount": 100000,
+    "max_amount": 5000000,
+    "min_tenure": 1,
+    "max_tenure": 15
+  },
+  {
+    "bank": "SBI",
+    "type": "Education Loan",
+    "interest_rate": 8.5,
+    "processing_fee": "0.5% of loan amount",
+    "min_amount": 100000,
+    "max_amount": 7500000,
+    "min_tenure": 1,
+    "max_tenure": 15
+  }
+]
