@@ -64,7 +64,7 @@
 ---
 
 ## 🌍 Deployed URL
-🔗 [https://hm069-byte-us.onrender.com]
+🔗 [https://hm069-byte-us-68g9.onrender.com/]
 
 ---
 
