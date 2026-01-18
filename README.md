@@ -69,7 +69,7 @@
 ---
 
 ## 🎥 Demo Video
-📽️ [Add Demo Video Link Here]
+📽️ [https://drive.google.com/file/d/17V8uE11DfvHI8u5DIYlOWIHgoyfVekJz/view?usp=drive_link]
 
 ---
 
