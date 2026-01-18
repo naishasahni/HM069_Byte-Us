@@ -47,7 +47,7 @@
 ![Credit Score History](screenshots/credit%20score%20history.jpeg)
 
 ### 🔹 Credit Health Analysis
-![Credit Health Analysis](screenshots/credit%20health%20analysis.jpeg)
+![Credit Health Analysis](https://github.com/naishasahni/HM069_Byte-Us/edit/main/README.md#:~:text=credit-,health,-analysis.jpeg)
 
 ### 🔹 EMI Calculator & Tools
 ![EMI Calculator](screenshots/emi%20calculator%20and%20tools.jpeg)
