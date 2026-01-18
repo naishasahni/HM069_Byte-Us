@@ -64,7 +64,7 @@
 ---
 
 ## 🌍 Deployed URL
-🔗 [Add Live Platform Link Here]
+🔗 [https://hm069-byte-us.onrender.com]
 
 ---
 
