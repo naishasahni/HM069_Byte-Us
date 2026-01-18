@@ -1,0 +1,15 @@
+{
+  "monthly_income": 25000,
+  "monthly_expense": 15000,
+  "credit_score": 650,
+  "credit_utilization": 60,
+  "num_credit_cards": 2,
+  "current_loans": [
+    {
+      "amount": 500000,
+      "emi": 5000,
+      "remaining_tenure": 10
+    }
+  ],
+  "last_updated": "2026-01-17T22:09:18.433554"
+}

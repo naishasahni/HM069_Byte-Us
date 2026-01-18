@@ -211,14 +211,14 @@ if len(profile_button_text) > 15:
 
 header_col1, header_col2, header_col3, header_col4 = st.columns([4, 5, 0.5, 0.5])
 with header_col1:
-    try:
-        logo_path = r"C:\Users\Shoya\Desktop\Hackathon FInalized zip file\Hackathon\images\logo.png"
-        st.image(logo_path, width=300)
-    except Exception as e:
-        st.write(f"Logo not found: {e}")
+    logo_path = os.path.join(os.path.dirname(__file__), 'images', 'logo.png')
+    if os.path.exists(logo_path):
+        st.image(logo_path, width=250)
+    else:
+        st.info("Logo file not found. Please save logo.png in the images folder.")
 
 with header_col3:
-    if st.button(profile_button_text, key="profile_btn", use_container_width=True):
+    if st.button(profile_button_text, key="profile_btn", use_container_width=False, help="Go to Profile"):
         st.session_state.selected_page = "⚙️ Profile"
         st.session_state.show_notifications = False
         st.rerun()
@@ -227,7 +227,7 @@ with header_col4:
     alert_text = "🔔"
     if st.session_state.alerts_count > 0:
         alert_text = f"🔔 ({st.session_state.alerts_count})"
-    if st.button(alert_text, key="alerts_btn", use_container_width=True):
+    if st.button(alert_text, key="alerts_btn", use_container_width=False, help="Notifications"):
         st.session_state.show_notifications = not st.session_state.show_notifications
         st.rerun()
 

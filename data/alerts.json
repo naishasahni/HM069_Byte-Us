@@ -1,0 +1,58 @@
+[
+  {
+    "type": "warning",
+    "message": "Your credit score (650) is moderate. Work on improving it for better loan terms.",
+    "priority": "medium",
+    "timestamp": "2026-01-17T21:55:48.220560",
+    "seen": false
+  },
+  {
+    "type": "warning",
+    "message": "Credit utilization (50%) is above recommended 30%. Consider reducing it.",
+    "priority": "medium",
+    "timestamp": "2026-01-17T21:55:48.220569",
+    "seen": false
+  },
+  {
+    "type": "info",
+    "message": "You have 3 active loan(s). Ensure timely EMI payments.",
+    "priority": "low",
+    "timestamp": "2026-01-17T21:55:48.220578",
+    "seen": false
+  },
+  {
+    "type": "info",
+    "message": "Don't forget to pay your credit card bills on time. You have 2 card(s).",
+    "priority": "low",
+    "timestamp": "2026-01-17T21:55:48.220580",
+    "seen": false
+  },
+  {
+    "type": "warning",
+    "message": "Debt-to-income ratio (36.9%) is getting high. Monitor your finances.",
+    "priority": "medium",
+    "timestamp": "2026-01-17T21:56:33.502918",
+    "seen": false
+  },
+  {
+    "type": "warning",
+    "message": "Low monthly savings. Aim to save at least 10-20% of your income.",
+    "priority": "medium",
+    "timestamp": "2026-01-17T21:56:33.502920",
+    "seen": false
+  },
+  {
+    "type": "info",
+    "message": "You have 1 active loan(s). Ensure timely EMI payments.",
+    "priority": "low",
+    "timestamp": "2026-01-17T22:04:23.838434",
+    "seen": false
+  },
+  {
+    "type": "warning",
+    "message": "Credit utilization (60%) is above recommended 30%. Consider reducing it.",
+    "priority": "medium",
+    "timestamp": "2026-01-17T22:09:18.683104",
+    "seen": false
+  }
+]
